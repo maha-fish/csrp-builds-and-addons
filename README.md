@@ -1,2 +1,31 @@
-# csrp-builds-and-addons
-Unified storage and distribution for CSRP main builds and community addons. No source code; files are published in Releases.
+[中文](README.md) | [English](README.en.md)
+
+# CSRP 构建物与附属模组仓库
+
+本仓库用于**存储和分发** CSRP 的构建产物，以及社区玩家制作的附属模组。  
+**本仓库不包含 CSRP 源代码。** 所有可下载文件均发布在 [Releases](../../releases) 中，由仓库维护者独立管理。
+
+## 安装
+
+1. 安装 **Minecraft 1.21.1** 与 **NeoForge**。
+2. 将主构建物 `.jar` 放入游戏的 `mods/` 目录。
+3. 附属模组同样放入 `mods/`，并确认其兼容的 CSRP 版本。
+4. 启动游戏。
+
+> 附属模组由第三方作者制作，兼容性与问题请优先联系对应作者。
+
+## 仓库用途与存储策略
+
+本仓库只承担分发与索引，不存放二进制到 `main`：
+
+- `main` 分支：文档与索引
+- **Releases**：主构建物 JAR、附属模组 JAR
+
+## 版权与许可
+
+本仓库不包含 CSRP 源代码，CSRP 的版权归其原作者所有。  
+第三方附属模组的版权归其各自作者所有，本仓库仅作索引与分发。
+
+## 致谢
+
+感谢 CSRP 作者，以及所有制作、测试和反馈附属模组的玩家。
