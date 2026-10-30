@@ -5,14 +5,6 @@
 This repository is used to **store and distribute** CSRP build artifacts and community-made addons.  
 **It does not contain CSRP source code.** All downloadable files are published under [Releases](../../releases) and managed solely by the repository maintainer.
 
-## Download Acceleration
-
-If Releases downloads are slow, use this GitHub proxy:
-
-https://www.moretools.app/zh-CN/github-proxy
-
-Paste the Release file link into the page to get an accelerated download address. This is a third-party proxy; verify availability and safety at your own discretion.
-
 ## Installation
 
 1. Prepare the environment matching the **loader** (NeoForge / Forge / Fabric, etc.) and **game version** indicated by the file.
